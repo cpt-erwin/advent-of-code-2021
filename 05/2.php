@@ -1,6 +1,6 @@
 <?php
 
-/** PART 1 **/
+/** PART 2 **/
 
 // DEBUG
 const PRINT_TABLE = false;
